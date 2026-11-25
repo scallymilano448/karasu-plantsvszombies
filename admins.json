@@ -2,12 +2,6 @@
   "ownerSteamId": "76561199365205703",
   "admins": [
     {
-      "name": "scallymilano",
-      "badge": "ADMIN",
-      "color": "#ff3333",
-      "vip": true
-    },
-    {
       "name": "wswavdghfwd",
       "badge": "ADMIN",
       "color": "#ff3333",
@@ -18,6 +12,32 @@
       "badge": "ADMIN",
       "color": "#ff3333",
       "vip": true
+    }
+  ],
+  "roles": [
+    {
+      "id": "r-dee33f47-b76f-4cf8-b204-5e43cc500202",
+      "label": "fwqwfqqwf",
+      "color": "#c4daff",
+      "weight": 100,
+      "badgeId": ""
+    }
+  ],
+  "badges": [],
+  "assignments": [
+    {
+      "steamId": "76561199365205703",
+      "name": "scallymilano",
+      "roleId": "r-dee33f47-b76f-4cf8-b204-5e43cc500202",
+      "badgeIds": [],
+      "roleIds": [
+        "r-dee33f47-b76f-4cf8-b204-5e43cc500202"
+      ],
+      "vip": true,
+      "adminStyle": {
+        "color": "#ff3333",
+        "badge": "ADMIN"
+      }
     }
   ]
 }

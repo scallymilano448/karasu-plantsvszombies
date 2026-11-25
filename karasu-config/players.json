@@ -1,0 +1,32 @@
+{
+  "admins": [
+    {
+      "name": "wswavdghfwd",
+      "badge": "ADMIN",
+      "color": "#ff3333",
+      "vip": true
+    },
+    {
+      "name": "lehasmugliy",
+      "badge": "ADMIN",
+      "color": "#ff3333",
+      "vip": true
+    }
+  ],
+  "assignments": [
+    {
+      "steamId": "76561199365205703",
+      "name": "scallymilano",
+      "roleId": "r-dee33f47-b76f-4cf8-b204-5e43cc500202",
+      "badgeIds": [],
+      "roleIds": [
+        "r-dee33f47-b76f-4cf8-b204-5e43cc500202"
+      ],
+      "vip": true,
+      "adminStyle": {
+        "color": "#ff3333",
+        "badge": "ADMIN"
+      }
+    }
+  ]
+}
