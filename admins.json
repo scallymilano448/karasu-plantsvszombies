@@ -2,12 +2,6 @@
   "ownerSteamId": "76561199365205703",
   "admins": [
     {
-      "name": "wswavdghfwd",
-      "badge": "ADMIN",
-      "color": "#ff3333",
-      "vip": true
-    },
-    {
       "name": "lehasmugliy",
       "badge": "ADMIN",
       "color": "#ff3333",
@@ -23,7 +17,24 @@
       "badgeId": ""
     }
   ],
-  "badges": [],
+  "badges": [
+    {
+      "id": "b-7f9ec462-a27a-4ea0-986e-5fd7b464f69c",
+      "label": "NOOB",
+      "icon": "🏆",
+      "color": "#ffffff",
+      "background": "#000000",
+      "gradient": true,
+      "gradientEnd": "#ded7e0",
+      "border": "#00d1ae",
+      "borderWidth": 1,
+      "radius": 4,
+      "fontSize": 10,
+      "fontWeight": 800,
+      "glow": true,
+      "weight": 50
+    }
+  ],
   "assignments": [
     {
       "steamId": "76561199365205703",
@@ -31,6 +42,22 @@
       "roleId": "",
       "badgeIds": [],
       "roleIds": [],
+      "vip": true,
+      "adminStyle": {
+        "color": "#ff3333",
+        "badge": "ADMIN"
+      }
+    },
+    {
+      "steamId": null,
+      "name": "wswavdghfwd",
+      "roleId": "admin",
+      "badgeIds": [
+        "b-7f9ec462-a27a-4ea0-986e-5fd7b464f69c"
+      ],
+      "roleIds": [
+        "admin"
+      ],
       "vip": true,
       "adminStyle": {
         "color": "#ff3333",
