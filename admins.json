@@ -28,11 +28,9 @@
     {
       "steamId": "76561199365205703",
       "name": "scallymilano",
-      "roleId": "admin",
+      "roleId": "",
       "badgeIds": [],
-      "roleIds": [
-        "admin"
-      ],
+      "roleIds": [],
       "vip": true,
       "adminStyle": {
         "color": "#ff3333",
