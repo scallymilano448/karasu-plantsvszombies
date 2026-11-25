@@ -12,6 +12,12 @@
       "badge": "ADMIN",
       "color": "#ff3333",
       "vip": true
+    },
+    {
+      "name": "lehasmugliy",
+      "badge": "ADMIN",
+      "color": "#ff3333",
+      "vip": true
     }
   ]
 }
