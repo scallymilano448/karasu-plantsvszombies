@@ -17,10 +17,10 @@
     {
       "steamId": "76561199365205703",
       "name": "scallymilano",
-      "roleId": "r-dee33f47-b76f-4cf8-b204-5e43cc500202",
+      "roleId": "admin",
       "badgeIds": [],
       "roleIds": [
-        "r-dee33f47-b76f-4cf8-b204-5e43cc500202"
+        "admin"
       ],
       "vip": true,
       "adminStyle": {
