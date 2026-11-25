@@ -1,6 +1,17 @@
 {
+  "ownerSteamId": "76561199365205703",
   "admins": [
-    { "name": "scallymilano", "badge": "ADMIN", "color": "#ff3333", "vip": true },
-    { "name": "wswavdghfwd", "badge": "ADMIN", "color": "#ff3333", "vip": true }
+    {
+      "name": "scallymilano",
+      "badge": "ADMIN",
+      "color": "#ff3333",
+      "vip": true
+    },
+    {
+      "name": "wswavdghfwd",
+      "badge": "ADMIN",
+      "color": "#ff3333",
+      "vip": true
+    }
   ]
 }
